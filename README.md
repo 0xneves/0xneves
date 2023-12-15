@@ -1,4 +1,4 @@
-<h2> Just another Blockchain User 🤠</h2>
+<h2> Just another Blockchain User</h2>
   
 Building [Blockful](https://github.com/blockful-io)
   
